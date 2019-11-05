@@ -88,7 +88,7 @@
     "karma-spec-reporter": "0.0.32",
     "karma-stacktrace": "^2.0.1",
     "karma-webpack": "^4.0.2",
-    "lodash": "4.17.10",
+    "lodash": "4.17.13",
     "long": "^4.0.0",
     "mini-css-extract-plugin": "^0.8.0",
     "mocha": "5.1.1",
